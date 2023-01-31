@@ -7,7 +7,7 @@ import project6 from '../assets/project6.png';
 
 export const ProjectList = [
     {
-        name: "Algorithm Visualizer",
+        name: "Random ",
         image: project1,
     },
     {
@@ -23,11 +23,11 @@ export const ProjectList = [
         image: project4,
     },
     {
-        name: "Algorithm Visualizer",
+        name: "Random Project 4",
         image: project5,
     },
     {
-        name: "Algorithm Visualizer",
+        name: "Random Project 5",
         image: project6,
     },
 
