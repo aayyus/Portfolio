@@ -9,4 +9,4 @@ function ProjectItem({image, name}) {
   )
 }
 
-export default ProjectItem
+export default ProjectItem 

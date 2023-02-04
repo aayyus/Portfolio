@@ -1,9 +1,7 @@
 import React from 'react';
 import ProjectItem from '../components/ProjectItems';
 import {ProjectList} from '../components/ProjectList';
-
-
-
+           
 import "../styles/Project.css";
 
 function Projects() {
