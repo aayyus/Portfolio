@@ -13,7 +13,7 @@ function Footer() {
         <LinkedInIcon><a href=""></a></LinkedInIcon>
 
       </div>
-      <p>portfolio.com</p>
+      <p>Aayush Sharma - 9865129467</p>
     </div>
   );
 }

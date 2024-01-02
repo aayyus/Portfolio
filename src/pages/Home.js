@@ -8,7 +8,7 @@ function Home() {
     <div className="home">
       <div className="about">
         <h3> Hi, My name is Aayush.</h3>
-        <div className="prompt"> <p> A software developer with a passion for learning and creating.</p>
+        <div className="prompt"> <p> A web developer with a passion for learning and creating.</p>
         {/* <LinkedInIcon/>
         <FacebookIcon/>
         <InstagramIcon/> */}
@@ -19,11 +19,11 @@ function Home() {
          <ol className="list">
           <li className="item">
             <h2> Front-End</h2>
-            <span>HTML, CSS, JS, React</span>
+            <span>HTML, CSS, JS, React, Next Js, minimals, Angular</span>
             </li> 
             <li className="item">
             <h2> Languages</h2>
-            <span>C, C++, Python</span>
+            <span>C, C++, Python, firebase, wordpress</span>
             </li> 
 
          </ol>
