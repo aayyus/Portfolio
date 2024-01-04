@@ -1,6 +1,8 @@
 import project1 from '../assets/project1.png';
 import project2 from '../assets/project2.png';
 import project3 from '../assets/project3.png';
+import project4 from '../assets/project4.png';
+
 
 export const ProjectList = [
   {
@@ -17,6 +19,11 @@ export const ProjectList = [
     name: 'ServeNepal',
     image: project3,
     link: 'https://example.com/project3', // Link for Project 3
+  },
+  {
+    name: 'F1softClone',
+    image: project4,
+    link: 'https://f1softclone-clone.vercel.app/', // Link for Project 3
   },
   
 ];
