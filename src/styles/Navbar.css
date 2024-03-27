@@ -1,6 +1,9 @@
 .navbar {
   width: 100%;
   background: rgb(14, 0, 28);
+  position: sticky;
+  z-index: 100;
+  top: 0;
 }
 
 .links {
