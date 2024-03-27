@@ -45,7 +45,7 @@ The British College          </h3>
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-Front End Associate         </h3>
+Front End Intern         </h3>
           <h4 className="vertical-timeline-element-subtitle">
 DG HUB, Nepal payment Solution          </h4>
           <p>
@@ -59,7 +59,7 @@ DG HUB, Nepal payment Solution          </h4>
         icon={<WorkIcon />}
       >
         <h3 className="vertical-timeline-element-title">
-Front End Internship          </h3>
+Front End Associate          </h3>
         <h4 className="vertical-timeline-element-subtitle">
 F1 Soft International       </h4>
         <p>
