@@ -11,7 +11,7 @@ function Experience() {
     <div className="experience">
       <VerticalTimeline lineColor="#dc143c">
         <VerticalTimelineElement
-          className="vertical-timeline-element--education"
+          className="vertical-timeline-element--education color"
           date="2019-2021"
           iconStyle={{ background: "#dc143c", color: "#fff" }}
           icon={<SchoolIcon />}

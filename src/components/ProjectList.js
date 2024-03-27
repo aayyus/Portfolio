@@ -16,14 +16,15 @@ export const ProjectList = [
     link: 'https://www.meravservices.com.np/', // Link for Project 2
   },
   {
-    name: 'ServeNepal',
+    name: 'ServeNepal Wordpress',
     image: project3,
-    link: 'https://example.com/project3', // Link for Project 3
+    link: 'https://servenepal.org/', // Link for Project 3
   },
   {
     name: 'F1softClone',
     image: project4,
-    link: 'https://f1softclone-clone.vercel.app/', // Link for Project 3
+    link: 'https://f1softclone-clone.vercel.app/', // Link for Project 4
   },
+  
   
 ];
