@@ -6,7 +6,7 @@ function ProjectItem({ image, name, link }) {
       <a href={link} target="_blank" rel="noopener noreferrer">
         <div style={{backgroundImage: `url(${image})`}} className="bgImage"></div>
       </a>
-      <h1>{name}</h1>
+      <h1 className='white'>{name}</h1>
     </div>
   );
 }
