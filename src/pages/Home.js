@@ -73,11 +73,11 @@ function Home() {
         <ol className="list">
           <li className="item">
             <h2> Front-End</h2>
-            <span>HTML, CSS, JS, React, Next Js, minimals, Angular, PHP, SQL</span>
+            <span>HTML, CSS, JS, React, Next Js, minimals, Angular</span>
           </li>
           <li className="item">
             <h2> Languages</h2>
-            <span>C, C++, Python, firebase, wordpress, appwrite</span>
+            <span>C, C++, Python, firebase, wordpress, appwrite, PHP, SQL</span>
           </li>
 
         </ol>
