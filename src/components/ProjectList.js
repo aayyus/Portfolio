@@ -25,6 +25,11 @@ export const ProjectList = [
     image: project4,
     link: 'https://f1softclone-clone.vercel.app/', // Link for Project 4
   },
+  {
+    name: 'Appwrite Todo Auth',
+    image: project4,
+    link: 'https://f1softclone-clone.vercel.app/', // Link for Project 4
+  },
   
   
 ];
